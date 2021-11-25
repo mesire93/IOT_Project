@@ -9,6 +9,7 @@
 
 
 <!-- 내용 작성 -->
+<<<<<<< HEAD
         <!-- Section-->
         <section class="py-5">
             <div class="container px-4 px-lg-5 mt-5">
@@ -213,4 +214,9 @@
             </div>
         </section>
 
+=======
+<h1>내용</h1>
+<h1>내용2</h1>
+<h1>내용3</h1>
+>>>>>>> branch 'main' of https://github.com/mesire93/IOT_Project.git
 <%@ include file="/WEB-INF/views/includes/footer.jsp"%>
