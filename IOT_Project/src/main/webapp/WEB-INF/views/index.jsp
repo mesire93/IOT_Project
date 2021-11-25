@@ -11,4 +11,5 @@
 <!-- 내용 작성 -->
 <h1>내용</h1>
 <h1>내용2</h1>
+<h1>내용3</h1>
 <%@ include file="/WEB-INF/views/includes/footer.jsp"%>
