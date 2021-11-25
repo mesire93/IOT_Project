@@ -127,11 +127,11 @@
                             </div>
                             <div class="header__top__right__language">
                                 <img src="img/language.png" alt="">
-                                <div>English</div>
+                                <div>KOR</div>
                                 <span class="arrow_carrot-down"></span>
                                 <ul>
-                                    <li><a href="#">Spanis</a></li>
-                                    <li><a href="#">English</a></li>
+                                    <li><a href="#">KOR</a></li>
+                                    <li><a href="#">ENG</a></li>
                                 </ul>
                             </div>
                             <div class="header__top__right__auth">
