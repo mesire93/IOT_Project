@@ -173,7 +173,7 @@
                                     
                                 </ul>
                             </li>
-                            <li><a href="#">커뮤니티</a></li>
+                            <li><a class="community" href="#">커뮤니티</a></li>
                             <li><a href="#">장바구니</a></li>
                         </ul>
                     </nav>

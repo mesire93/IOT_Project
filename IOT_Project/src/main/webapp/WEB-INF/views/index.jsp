@@ -219,4 +219,24 @@
 <h1>내용2</h1>
 <h1>내용3</h1>
 >>>>>>> branch 'main' of https://github.com/mesire93/IOT_Project.git
+
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		
+		
+		var actionForm = $("#actionForm");
+
+	
+		$(".community").on("click", function(e){
+			e.preventDefault();
+			actionForm.attr("action", "/community");
+			actionForm.submit();
+		});
+		
+</script>
+
+
+
 <%@ include file="/WEB-INF/views/includes/footer.jsp"%>

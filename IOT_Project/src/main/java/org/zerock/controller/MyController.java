@@ -14,4 +14,14 @@ public class MyController {
 	public void logoutGET() {
 		log.info("=== index.jsp ===");
 	}
+	
+	@GetMapping("/community")
+	public String community01() {
+		return "community01";
+	}
+	
+	@GetMapping("/main")
+	public void main() {
+	}
+	
 }
